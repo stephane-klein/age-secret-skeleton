@@ -17,7 +17,7 @@ Setting up the `.secret` file. For this, you have two methods:
 2. Otherwise, the second method is to copy `.secret.skel` to `.secret` (`cp .secret.skel .secret`) and
    contact the person mentioned in the file to request the secrets.
 
-Après cela, n'oubliez pas de recharger les variables d'environnement avec :
+After that, don't forget to reload environment variables with:
 
 ```sh
 $ source .envrc
