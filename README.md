@@ -1,5 +1,7 @@
 # Age secret management skeleton
 
+Note in English: https://notes.sklein.xyz/2025-02-20_1912/zen/
+
 ## Prerequisites
 
 - [Mise](https://mise.jdx.dev/)
